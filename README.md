@@ -1,2 +1,2 @@
 # javaScriptBasic
-Teste de comando básicos do Java Script
+Testes de comandos básicos do Java Script.
